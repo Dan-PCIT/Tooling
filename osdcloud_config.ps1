@@ -7,7 +7,7 @@ $WinOS      = 'Windows 11 25H2'   # Must exist in the OSDCloud operating system 
 $WinEdition = 'Pro'
 # ------------------------------------------------------------
 
-Write-Host -ForegroundColor Green "Starting OSDCloud ZTI"
+Write-Host -ForegroundColor Green "Starting OSDCloud PCIT Support"
 Write-Host -ForegroundColor DarkGray "Operating System: $WinOS | Edition: $WinEdition"
 Start-Sleep -Seconds 5
 
